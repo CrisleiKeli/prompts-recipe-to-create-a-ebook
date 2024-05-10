@@ -61,20 +61,5 @@ Carbono:
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Aprendiz
-
-
-    <a href="https://github.com/CrisleiKeli">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/crislei-jenuino-b139b2260">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/crisleikeli?igsh=d241ZmsybjRlNGww">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
 
 ⌨️ com 💜 por [Crislei Jenuino](https://github.com/CrisleiKeli)
