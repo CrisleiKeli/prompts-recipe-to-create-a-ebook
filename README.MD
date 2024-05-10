@@ -66,8 +66,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
     <a href="https://github.com/CrisleiKeli">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-CrisleiKeli-exe">LinkedIn</a>
+    <a href="www.linkedin.com/in/crislei-jenuino-b139b2260">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/crisleikeli?igsh=d241ZmsybjRlNGww">
     Instagram</a>
