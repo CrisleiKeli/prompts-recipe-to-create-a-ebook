@@ -59,7 +59,8 @@ Carbono:
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilizei os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Com a ajuda do Professor [Felipe Silva Aguiar](https://github.com/felipeAguiarCode)
 
 
 ⌨️ com 💜 por [Crislei Jenuino](https://github.com/CrisleiKeli)
